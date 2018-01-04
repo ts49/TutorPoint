@@ -12,5 +12,5 @@ Teacher can add tags to videos. ( like add #JAVA tag to java course’s video )
 Student account features:-
 Able to watch any video of any course. ( Browse and watch any video )
 Able to like and comment on any video. ( Just like youtube and facebook )
-Search a particular video on the basis of course name.
+Search a particular video on the basis of course name
 Students can search videos by tag and authors. ( Search would result video with same tag as searched )
